@@ -1,2 +1,2 @@
-# jmilamwalters.github.io
-Curriculum vitae.
+# proofs
+PROOFS OF CONCEPT
