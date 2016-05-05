@@ -1,10 +1,10 @@
-/*  JavaScript 6th Edition
-    Chapter 11
-    Chapter case
+/*
+    Proof
+    JavaScript
+    Weather web application
 
-    Whole Spectrum Energy Solutions
-    Author: Julen D. Cosme
-    Date:   10 April 2016
+    Author: Jonathan Milam Walters
+    Date: 04 May 2016
 
     Filename: script.js
 */

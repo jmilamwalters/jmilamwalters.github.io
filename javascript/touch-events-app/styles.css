@@ -1,5 +1,5 @@
 /*
-   Re: PROOFS
+  Re: Proof
       JavaScript
       Touch events web application
 
@@ -169,6 +169,10 @@ article {
   padding-top: 5px;
   font-family: Aladin, cursive;
   font-size: 1.2em;
+  -webkit-user-select: none;
+  -moz-user-select:    none;
+  -ms-user-select:     none;
+      user-select:     none;
 }
 
 #stage, #table1, #table2, #table3, #table4 {
@@ -181,6 +185,11 @@ article {
   border: 3px solid #666666;
   font-family: Georgia, "Droid Serif", serif;
   cursor: default;
+  -webkit-user-select: none;
+  -moz-user-select:    none;
+  -ms-user-select:     none;
+      user-select:     none;
+
 }
 
 #stage {

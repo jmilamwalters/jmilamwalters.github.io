@@ -1,13 +1,14 @@
 /*
-    Re: PROOFS
-        JavaScript
-        Map WebApp
+    Proof
+    JavaScript
+    Weather web application
 
-        Author: Jonathan Milam Walters
-        Date: 04 May 2016
+    Author: Jonathan Milam Walters
+    Date: 04 May 2016
 
-        Filename: scriptJSONP.js
+    Filename: scriptJSONP.js
 */
+
 
 // interpret contents in strict mode
 "use strict";

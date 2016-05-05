@@ -1,12 +1,12 @@
 /*
-    Re: PROOFS
-        JavaScript
-        Touch events web application
+    Proof
+    JavaScript
+    Touch events web application
 
-        Author: Jonathan Milam Walters
-        Date: 04 May 2016
+    Author: Jonathan Milam Walters
+    Date: 04 May 2016
 
-        Filename: script.js
+    Filename: scriptJSONP.js
 */
 
 
@@ -80,7 +80,7 @@ function loadDirections(string) {
   if (typeof google !== 'object') {
     var script = document.createElement("script");
     // include callback invoking geoTest(), to load only after library has loaded
-    script.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCKESKlL3K4Oj96UKcSyvz-wgKj0zLvD0U&callback=geoTest"
+    script.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDgBYuqXHM9X6T4vO_cBv-X6weYGPrX5tE&callback=geoTest"
     document.body.appendChild(script);
   }
 }

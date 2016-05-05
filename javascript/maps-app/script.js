@@ -1,10 +1,10 @@
 /*
-    Re: PROOFS
-        JavaScript
-        Map WebApp
+    Proof
+    JavaScript
+    Maps web application
 
-        Author: Jonathan Milam Walters
-        Date: 04 May 2016
+    Author: Jonathan Milam Walters
+    Date: 04 May 2016
 
     Filename: script.js
 */
