@@ -1,12 +1,12 @@
-/*  JavaScript 6th Edition
-    Chapter 10
-    Chapter case
+/*
+    Re: PROOFS
+        JavaScript
+        Touch events web application
 
-    Oak Top House
-    Author: Julen D. Cosme
-    Date:   04 April 2015
+        Author: Jonathan Milam Walters
+        Date: 04 May 2016
 
-    Filename: script.js
+        Filename: script.js
 */
 
 

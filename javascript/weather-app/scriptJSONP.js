@@ -1,14 +1,13 @@
-/*  JavaScript 6th Edition
-    Chapter 11
-    Chapter case
+/*
+    Re: PROOFS
+        JavaScript
+        Map WebApp
 
-    Whole Spectrum Energy Solutions
-    Author: Julen D. Cosme
-    Date:   12 April 2016
+        Author: Jonathan Milam Walters
+        Date: 04 May 2016
 
-    Filename: script.js
+        Filename: scriptJSONP.js
 */
-
 
 // interpret contents in strict mode
 "use strict";
