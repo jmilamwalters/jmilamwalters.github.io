@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    Re: Proof
+        JavaScript
+        Maps web application
+
+        Author: Jonathan Milam Walters
+        Date:   04 May 2016
+
+        Filename: index.htm
+  -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Maps</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="modernizr.custom.05819.js"></script>
+</head>
+<body>
+  <header>
+    <h1>
+      Maps
+    </h1>
+  </header>
+  <article>
+    <div id="museums">
+      <div id="location">My Location</div>
+      <div id="berlin">Pergamon Museum</div>
+      <div id="paris">Musée d'Orsay</div>
+      <div id="houston">Rothko Chapel</div>
+    </div>
+    <div id="caption">
+      My location
+    </div>
+    <div id="map"></div>
+  </article>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDgBYuqXHM9X6T4vO_cBv-X6weYGPrX5tE&callback=geoTest" async defer></script>
+  <script src="script.js"></script>
+</body>
+</html>
