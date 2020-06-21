@@ -1,2 +1,1 @@
-# proofs
-PROOFS OF CONCEPT
+# Personal site for Jonathan Walters
