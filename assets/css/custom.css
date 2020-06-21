@@ -185,6 +185,17 @@ h6.education-body,
   font-weight: 300 !important;
 }
 
+/* I lack the original development environment used to compile from Stylus to
+ CSS; hence, I'm including here some overrides. */
+.headstone {
+  display: flex;
+  align-items: center;
+}
+
+.epigraph-verso {
+  padding-top: 0;
+}
+
 /*******************************
             Mobile
 *******************************/
