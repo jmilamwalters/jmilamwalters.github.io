@@ -173,6 +173,10 @@ h6.education-body,
   font-size: 3.6rem;
 }
 
+.about-body {
+  text-align: center;
+}
+
 /* Sections */
 /* Proficiencies */
 .proficiencies .content .header {
