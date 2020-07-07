@@ -458,3 +458,16 @@ Slabtext CSS
 .slabtextdone .slabtext {
   display: block;
 }
+
+/* --------------------------------
+
+New styling rules, effective with
+hosting by GitHub
+
+-------------------------------- */
+
+@media screen and (max-width: 800px) {
+  .proficiencies .content .header {
+    font-size: 1.8rem;
+  }
+}
