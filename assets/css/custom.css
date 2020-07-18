@@ -154,14 +154,14 @@ h6 {
 
 h6.title {
   color: #f90a4f !important;
-  font-family: "Montserrat", sans-serif !important;
+  font-family: "Lato", sans-serif !important;
   font-size: 3.6rem;
   text-transform: uppercase !important;
 }
 
 h6.education-heading,
 .education-heading {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: 900;
   font-size: 3.6rem;
   text-transform: uppercase;
@@ -391,7 +391,7 @@ h6.education-body,
 
   h6.education-heading,
   .education-heading {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 900;
     font-size: 2.6rem;
     text-transform: uppercase;
