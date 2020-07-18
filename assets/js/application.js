@@ -27,7 +27,7 @@ jQuery(document).ready(function ($) {
     e.preventDefault()
   })
 
-  // "Raise" menu on scroll
+  // Apply drop shadow to top menu on scroll.
   $('body').visibility({
     once: false,
     offset: -1,
