@@ -27,6 +27,20 @@ jQuery(document).ready(function ($) {
     e.preventDefault()
   })
 
+  // "Raise" menu on scroll
+  $('body').visibility({
+    once: false,
+    offset: -1,
+    onTopPassed: function () {
+      $('#top-menu .segment').removeClass('basic').addClass('raised')
+      //$('.fixed .menu').addClass('inverted');
+    },
+    onTopPassedReverse: function () {
+      $('#top-menu .segment').addClass('basic').removeClass('inverted')
+      //$('.fixed .menu').removeClass('inverted');
+    },
+  })
+
   // Initialize accordion
   $('.ui.accordion').accordion()
   $('.special.cards .image').dimmer({
